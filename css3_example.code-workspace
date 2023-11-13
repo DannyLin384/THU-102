@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../css3_example"
+		},
+		{
+			"path": "../google_font"
+		},
+		{
+			"path": "../rwd_example"
+		},
+		{
+			"path": "../bs5_example"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "rwd_example"
+	}
+}
